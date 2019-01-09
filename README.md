@@ -44,7 +44,7 @@ permanently supported.
 
 ## Quickstart
 
-You can follow http://blog.golang.org/json-and-go and replace every occurence of
+You can follow http://blog.golang.org/json-and-go and replace every occurrence of
 JSON with EDN (and the JSON data with EDN data), and the text makes almost
 perfect sense. The only caveat is that, since EDN is more general than JSON, go-edn
 stores arbitrary maps on the form `map[interface{}]interface{}`.
